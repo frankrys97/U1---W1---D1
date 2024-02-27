@@ -1,0 +1,89 @@
+body {
+  margin: 0;
+  background-image: url(https://cdn.enhancv.com/re_header_bckgr_43a53fb5b5.webp);
+  background-size: cover;
+}
+img {
+  height: 300px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5px;
+}
+
+.dropdown {
+  display: block;
+}
+
+.workprofile {
+  display: block;
+}
+
+#footer {
+  margin-top: 5px;
+}
+
+#footer img {
+  height: 10px;
+  width: 10px;
+  vertical-align: center;
+  margin-right: 3px;
+}
+table {
+  border: 1px solid;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid;
+  text-align: start;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-size: 3ch;
+}
+
+.contacts img {
+  height: 20px;
+  width: 20px;
+  vertical-align: bottom;
+  margin-right: 5px;
+}
+
+h1 {
+  margin-bottom: 10px;
+}
+.contacts {
+  list-style-type: none;
+  text-align: start;
+  padding: 0%;
+  margin-top: 5px;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.skills {
+  padding-left: 20px;
+}
+
+.skillsak {
+  padding-left: 20px;
+}
+
+button {
+  background-color: lightskyblue;
+  border-radius: 5px;
+}
+
+.button {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+}
